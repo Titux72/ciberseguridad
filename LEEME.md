@@ -1,3 +1,8 @@
+My name is Alberto Sanglier (Titux) and I have been teaching Computer Security for more than 6 years. In this website I'm going to make a compilation of utilities that you can use in your pentesting tests. I will be updating the content according to the new vulnerabilities that are registered in CWE, which, as you know, is where the new information security breaches are documented.
+
+Most of the tools that you can find on my website are coded by their authors in Python language, although they are also developed in other programming languages.
+
+Below I present several tools for analyzing vulnerabilities in computer security.
 # Security-Tools-in-Python
 Several simple projects done in Python for network monitoring for Cybersecurity and high availability. All the modules needed are in their folder with the script.
 
